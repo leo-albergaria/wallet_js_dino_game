@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/138675715-0461c029-8f2e-4cb3-8b97-c024a755e4ba.png" align="left" height="150px" width="150px">
+    <h1># Recriando o famoso jogo do dinossauro sem internet</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Será utilizado HTML, CSS e JavaScript.
     </p>
 </p>      
 
